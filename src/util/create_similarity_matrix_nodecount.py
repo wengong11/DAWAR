@@ -6,7 +6,7 @@ import scipy.stats
 import json
 
 def create_similarity_matrix_nodecount(steiner_trees):
-    with open('../util/api_weight_label_vec.json', 'r') as fp:
+    with open('../util/api_weight_label_vec_128.json', 'r') as fp:
         data = json.load(fp)
         api_vec = np.array(data['api_vec'])
 
