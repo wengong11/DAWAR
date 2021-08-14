@@ -1,4 +1,4 @@
-# MDMC
+# DAWAR
 This is an implementation for our paper: Diversity-aware Web APIs Recommendation with Compatibility Guarantee for Mashup Creation.
 # Dataset
 mashup.txt：raw data(mashup information)
